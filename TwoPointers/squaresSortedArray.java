@@ -13,6 +13,6 @@ class Solution {
             }
             result[resultCounter--] = resultNum * resultNum;            
         }
-        return result;
+        return result;;
     }
 }
